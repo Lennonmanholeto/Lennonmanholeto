@@ -3,8 +3,8 @@
 ### Olá, sou Lennon Manholeto! 👋
 Sou um estudante de HTML, CSS, Javascript, Java e Android Kotlin.
 
-- 🔭 Até o momento, as IDE's que mais utilizo são Visual Studio Code e Android Studio.
-- 🌱 Gosto muito do mundo full stack, desde estilizar prototipagem à estudar sobre os processos sistêmicos do back-end.
+
+
  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lennonmanholeto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
