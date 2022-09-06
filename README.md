@@ -1,7 +1,7 @@
 # README
 
 ### Olá, sou Lennon Manholeto! 👋
-Sou um estudante de HTML, CSS, Javascript, Java e Android Kotlin.
+
 
 
 
